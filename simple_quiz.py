@@ -17,6 +17,3 @@ for item in quiz_questions:
         print("Correct!")
     else:
         print(f"Incorrect, the correct answer was {item[2]}. {answer_list[correct_choice]}")
-
-
-

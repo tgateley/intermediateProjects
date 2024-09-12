@@ -14,4 +14,3 @@ while True:
                 file.write(f"{str(key)} {str(value)}")
     else:
         break
-

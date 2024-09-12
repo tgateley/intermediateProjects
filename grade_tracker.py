@@ -1,6 +1,5 @@
 grades = {}
 
-
 while True:
     option = input("""Menu:
     1. Add a student and their grades
