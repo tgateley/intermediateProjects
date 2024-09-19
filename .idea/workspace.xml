@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c0c0a9-ff52-4bb4-91d0-46fdff37750a" name="Changes" comment="add simple quiz">
-      <change afterPath="$PROJECT_DIR$/countdown.py" afterDir="false" />
+    <list default="true" id="a2c0c0a9-ff52-4bb4-91d0-46fdff37750a" name="Changes" comment="code formatting">
+      <change afterPath="$PROJECT_DIR$/notes app/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes app/simple_note_taker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tgateley"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tgateley&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tgateley/intermediateProjects.git",
-    "accountId": "5ceeb906-dd53-4aff-86a7-74d7eae29fee"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tgateley/intermediateProjects.git&quot;,
+    &quot;accountId&quot;: &quot;5ceeb906-dd53-4aff-86a7-74d7eae29fee&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2luT2pUQh25ZCHhHHGCC06eTmRx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,13 +50,43 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.contact_list_manager.executor": "Run",
+    "Python.countdown.executor": "Run",
     "Python.grade_tracker.executor": "Run",
+    "Python.simple_note_taker.executor": "Run",
     "Python.simple_quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tiffany\PycharmProjects\intermediate_projects\notes app" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="contact_list_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intermediate_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contact_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contact_list/contact_list_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="grade_tracker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="intermediate_projects" />
       <option name="ENV_FILES" value="" />
@@ -79,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contact_list_manager" />
         <item itemvalue="Python.grade_tracker" />
       </list>
     </recent_temporary>
@@ -115,12 +148,39 @@
       <option name="project" value="LOCAL" />
       <updated>1726037053787</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add countdown timer">
+      <option name="closed" value="true" />
+      <created>1726129717852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726129717852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add contact list manager">
+      <option name="closed" value="true" />
+      <created>1726132409492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726132409492</updated>
+    </task>
+    <task id="LOCAL-00005" summary="code formatting">
+      <option name="closed" value="true" />
+      <created>1726132532375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726132532375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="add simple quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="add simple quiz" />
+    <MESSAGE value="add countdown timer" />
+    <MESSAGE value="add contact list manager" />
+    <MESSAGE value="code formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="code formatting" />
   </component>
 </project>
