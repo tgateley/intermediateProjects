@@ -13,6 +13,7 @@ for word in text:
 word_count = len(text)
 
 # get the total number of sentences
+
 sentences = text_block.split(".")
 total_sentences = len(sentences)
 
